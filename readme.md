@@ -1,5 +1,5 @@
 ### Project Name
-Giftour
+GIFTOUR
 
 #### URL
 https://gms.gdl.jp/giftour/
